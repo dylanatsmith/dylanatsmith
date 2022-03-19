@@ -1,1 +1,1 @@
-Hi. I help design GitHub now.
+I help design GitHub.
