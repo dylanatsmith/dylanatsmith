@@ -1,4 +1,4 @@
-I’m a Senior Product Designer here at GitHub. :octocat:
+I’m a Senior Product Designer here at GitHub. :octocat::fishsticks:
 
 I work on Actions, Pages, npm, and other stuff.
 
