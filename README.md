@@ -1,3 +1,5 @@
-I’m a designer here at GitHub, working on Actions and other CI/CD features.
+I’m a design engineer here at GitHub, working on the Copilot experience in GitHub.com.
+
+I used to design Actions and other CI/CD features.
 
 :octocat::fishsticks:
