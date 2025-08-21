@@ -1,5 +1,5 @@
-I’m a design engineer here at GitHub, working on the Copilot experience in GitHub.com.
+I’m a Staff Design Engineer here at GitHub, working on Copilot experiences in GitHub.com.
 
-I used to design Actions and other CI/CD features.
+You can almost certainly nerd snipe me into fixing your favourite UI bug.
 
 :octocat::fishsticks:
